@@ -1,4 +1,4 @@
-madeincluj-github.io
+madeincluj.github.io
 ====================
 
 Madeincluj tech website.
